@@ -8,5 +8,3 @@ def reverso_numero(num: int) -> int:
 
 print(reverso_numero(num))
 
-# Com uma só linha
-# print(int(input("Digite um número inteiro qualquer: "))[::-1])
